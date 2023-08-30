@@ -35,22 +35,6 @@ int main()
     return 0;
 }
 
-/*
-
-    Steps to solve Problems on N numbers
-
-    Step 1 :        Accept the size of array from user                          (main)
-
-    Step 2 :        Allocate the memory dinamically for that array       (main)
-
-    Step 3 :        Accept the values from user and store in the array  (main)
-
-    Step 4 :        Pass that array and size to the function (Logic)        (Helper Function)
-
-    Step 5 :        Deallocate memory of that array                             (main)
-
-*/
-
 
 
 
